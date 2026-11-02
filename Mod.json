@@ -1,0 +1,11 @@
+{
+  "geode": "5.2.10",
+  "gd": {
+    "android": "2.2081"
+  },
+  "id": "myname.geodehello",
+  "name": "Geode Hello",
+  "version": "1.0.0",
+  "developer": "MyName",
+  "description": "My first Android Geode mod"
+}
